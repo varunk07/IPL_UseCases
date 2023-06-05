@@ -1,0 +1,642 @@
+Month_Year,Country,email.com,email1.com,email2.com,Users
+Jan-22,Australia,1,,127,128
+Jan-22,Austria,,2,112,114
+Jan-22,Belgium,,6,167,173
+Jan-22,Canada,,,136,136
+Jan-22,China,42,49,810,901
+Jan-22,Croatia,,,24,24
+Jan-22,Czech Republic,2,3,68,73
+Jan-22,Denmark,,,109,109
+Jan-22,Finland,,3,40,43
+Jan-22,France,,2,197,199
+Jan-22,Germany,8,3,714,725
+Jan-22,Great Britain,,,209,209
+Jan-22,Hungary,,,65,65
+Jan-22,India,6,4,29,39
+Jan-22,Ireland,,,17,17
+Jan-22,Italy,2,2,169,173
+Jan-22,Japan,,,71,71
+Jan-22,Lithuania,1,,,1
+Jan-22,Malaysia,1,,,1
+Jan-22,Mexico,1,,,1
+Jan-22,Netherlands,1,1,87,89
+Jan-22,Norway,,,73,73
+Jan-22,Poland,25,3,132,160
+Jan-22,Portugal,,4,41,45
+Jan-22,Romania,1,2,22,25
+Jan-22,Russian Federation,2,71,487,560
+Jan-22,Serbia,1,,24,25
+Jan-22,Slovak Republic,4,7,53,64
+Jan-22,Slovenia,,,10,10
+Jan-22,South Korea,,1,123,124
+Jan-22,Spain,,7,154,161
+Jan-22,Sweden,518,63,395,976
+Jan-22,Switzerland,5,1,119,125
+Jan-22,Thailand,1,,,1
+Jan-22,Turkey,1,,,1
+Jan-22,Ukraine,,1,6,7
+Jan-22,United States,3,5,272,280
+Jan-22,Vietnam,7,,,7
+Feb-22,Australia,1,,124,125
+Feb-22,Austria,,2,112,114
+Feb-22,Belgium,,6,168,174
+Feb-22,Canada,,,137,137
+Feb-22,China,42,48,797,887
+Feb-22,Croatia,,,25,25
+Feb-22,Czech Republic,2,3,68,73
+Feb-22,Denmark,,,111,111
+Feb-22,Finland,,3,43,46
+Feb-22,France,,2,197,199
+Feb-22,Germany,8,2,733,743
+Feb-22,Great Britain,,,217,217
+Feb-22,Hungary,,,70,70
+Feb-22,India,7,4,29,40
+Feb-22,Ireland,,,19,19
+Feb-22,Italy,2,2,172,176
+Feb-22,Japan,,,71,71
+Feb-22,Lithuania,1,,,1
+Feb-22,Malaysia,1,,,1
+Feb-22,Mexico,1,,,1
+Feb-22,Netherlands,,1,87,88
+Feb-22,Norway,,1,74,75
+Feb-22,Poland,15,3,133,151
+Feb-22,Portugal,,2,36,38
+Feb-22,Romania,1,2,24,27
+Feb-22,Russian Federation,4,71,494,569
+Feb-22,Serbia,1,,26,27
+Feb-22,Slovak Republic,4,7,54,65
+Feb-22,Slovenia,,,10,10
+Feb-22,South Korea,,1,123,124
+Feb-22,Spain,,7,155,162
+Feb-22,Sweden,521,67,398,986
+Feb-22,Switzerland,5,1,117,123
+Feb-22,Thailand,1,,,1
+Feb-22,Turkey,1,,,1
+Feb-22,Ukraine,,1,6,7
+Feb-22,United States,3,5,279,287
+Feb-22,Vietnam,8,,,8
+Mar-22,Australia,1,,123,124
+Mar-22,Austria,,2,109,111
+Mar-22,Belgium,,6,168,174
+Mar-22,Canada,,,144,144
+Mar-22,China,51,48,779,878
+Mar-22,Croatia,,,25,25
+Mar-22,Czech Republic,2,3,68,73
+Mar-22,Denmark,,,116,116
+Mar-22,Finland,,3,41,44
+Mar-22,France,,2,197,199
+Mar-22,Germany,8,2,729,739
+Mar-22,Great Britain,,,222,222
+Mar-22,Hungary,,,72,72
+Mar-22,India,7,6,30,43
+Mar-22,Ireland,,,19,19
+Mar-22,Italy,2,4,176,182
+Mar-22,Japan,,,75,75
+Mar-22,Lithuania,1,,,1
+Mar-22,Malaysia,1,,,1
+Mar-22,Mexico,1,,,1
+Mar-22,Netherlands,1,1,90,92
+Mar-22,Norway,,1,75,76
+Mar-22,Poland,17,3,134,154
+Mar-22,Portugal,,2,36,38
+Mar-22,Romania,1,2,23,26
+Mar-22,Russian Federation,4,68,489,561
+Mar-22,Serbia,1,,26,27
+Mar-22,Slovak Republic,4,7,51,62
+Mar-22,Slovenia,,,12,12
+Mar-22,South Korea,,1,122,123
+Mar-22,Spain,,7,153,160
+Mar-22,Sweden,523,64,399,986
+Mar-22,Switzerland,5,1,118,124
+Mar-22,Thailand,1,,,1
+Mar-22,Turkey,1,,,1
+Mar-22,Ukraine,,1,6,7
+Mar-22,United States,3,5,276,284
+Mar-22,Vietnam,9,,,9
+Apr-22,Australia,1,,128,129
+Apr-22,Austria,,2,115,117
+Apr-22,Belgium,,6,169,175
+Apr-22,Canada,,,144,144
+Apr-22,China,52,47,771,870
+Apr-22,Croatia,,,27,27
+Apr-22,Czech Republic,2,3,70,75
+Apr-22,Denmark,,,116,116
+Apr-22,Finland,,3,42,45
+Apr-22,France,,2,200,202
+Apr-22,Germany,13,2,739,754
+Apr-22,Great Britain,,1,223,224
+Apr-22,Hungary,,,77,77
+Apr-22,India,8,9,32,49
+Apr-22,Ireland,,,19,19
+Apr-22,Italy,2,4,179,185
+Apr-22,Japan,,,78,78
+Apr-22,Lithuania,1,,,1
+Apr-22,Malaysia,2,,,2
+Apr-22,Mexico,1,,,1
+Apr-22,Netherlands,,2,95,97
+Apr-22,Norway,,1,71,72
+Apr-22,Poland,18,4,135,157
+Apr-22,Portugal,,2,36,38
+Apr-22,Romania,1,2,24,27
+Apr-22,Russian Federation,4,70,491,565
+Apr-22,Serbia,1,,26,27
+Apr-22,Slovak Republic,4,7,49,60
+Apr-22,Slovenia,,,13,13
+Apr-22,South Korea,,1,120,121
+Apr-22,Spain,,7,159,166
+Apr-22,Sweden,525,69,409,1003
+Apr-22,Switzerland,5,1,123,129
+Apr-22,Thailand,1,,,1
+Apr-22,Turkey,1,,,1
+Apr-22,Ukraine,,1,6,7
+Apr-22,United States,3,5,281,289
+Apr-22,Vietnam,10,,,10
+May-22,Australia,1,,137,138
+May-22,Austria,,2,119,121
+May-22,Belgium,,7,171,178
+May-22,Canada,,,142,142
+May-22,China,55,49,770,874
+May-22,Croatia,,,27,27
+May-22,Czech Republic,2,1,71,74
+May-22,Denmark,,,116,116
+May-22,Finland,,3,41,44
+May-22,France,,2,196,198
+May-22,Germany,13,3,743,759
+May-22,Great Britain,,1,225,226
+May-22,Hungary,,,80,80
+May-22,India,7,10,35,52
+May-22,Ireland,,,19,19
+May-22,Italy,2,4,180,186
+May-22,Japan,,,82,82
+May-22,Lithuania,1,,,1
+May-22,Malaysia,2,,,2
+May-22,Mexico,1,,,1
+May-22,Netherlands,,3,96,99
+May-22,Norway,,1,72,73
+May-22,Poland,17,4,137,158
+May-22,Portugal,,2,42,44
+May-22,Romania,1,2,25,28
+May-22,Russian Federation,5,71,487,563
+May-22,Serbia,1,,23,24
+May-22,Slovak Republic,4,6,50,60
+May-22,Slovenia,,,13,13
+May-22,South Korea,,1,124,125
+May-22,Spain,,8,166,174
+May-22,Sweden,536,70,416,1022
+May-22,Switzerland,8,1,123,132
+May-22,Thailand,1,,,1
+May-22,Turkey,1,,,1
+May-22,Ukraine,,1,6,7
+May-22,United States,3,4,284,291
+May-22,Vietnam,10,,,10
+Jun-22,Australia,1,,137,138
+Jun-22,Austria,,2,121,123
+Jun-22,Belgium,,7,171,178
+Jun-22,Canada,,,144,144
+Jun-22,China,57,48,770,875
+Jun-22,Croatia,,,27,27
+Jun-22,Czech Republic,2,1,72,75
+Jun-22,Denmark,,,116,116
+Jun-22,Finland,,3,40,43
+Jun-22,France,,2,198,200
+Jun-22,Germany,13,3,748,764
+Jun-22,Great Britain,,1,228,229
+Jun-22,Hungary,,,81,81
+Jun-22,India,6,10,35,51
+Jun-22,Ireland,,,19,19
+Jun-22,Italy,2,4,179,185
+Jun-22,Japan,,,83,83
+Jun-22,Lithuania,1,,,1
+Jun-22,Malaysia,2,,,2
+Jun-22,Mexico,1,,,1
+Jun-22,Netherlands,,3,100,103
+Jun-22,Norway,,1,73,74
+Jun-22,Poland,17,4,136,157
+Jun-22,Portugal,,2,43,45
+Jun-22,Romania,1,2,25,28
+Jun-22,Russian Federation,5,72,485,562
+Jun-22,Serbia,1,,23,24
+Jun-22,Slovak Republic,4,6,49,59
+Jun-22,Slovenia,,,13,13
+Jun-22,South Korea,,1,125,126
+Jun-22,Spain,,8,167,175
+Jun-22,Sweden,543,70,420,1033
+Jun-22,Switzerland,8,1,126,135
+Jun-22,Thailand,1,,,1
+Jun-22,Turkey,1,,,1
+Jun-22,Ukraine,,1,6,7
+Jun-22,United States,3,4,287,294
+Jun-22,Vietnam,10,,,10
+Jul-22,Australia,1,,136,137
+Jul-22,Austria,,2,122,124
+Jul-22,Belgium,,7,166,173
+Jul-22,Canada,,,138,138
+Jul-22,China,53,48,765,866
+Jul-22,Croatia,,,27,27
+Jul-22,Czech Republic,2,1,66,69
+Jul-22,Denmark,,,113,113
+Jul-22,Finland,,2,40,42
+Jul-22,France,,2,195,197
+Jul-22,Germany,13,3,741,757
+Jul-22,Great Britain,,1,221,222
+Jul-22,Hungary,,,79,79
+Jul-22,India,6,11,34,51
+Jul-22,Ireland,,,19,19
+Jul-22,Italy,2,3,178,183
+Jul-22,Japan,,,84,84
+Jul-22,Lithuania,1,,,1
+Jul-22,Malaysia,2,,,2
+Jul-22,Mexico,1,,,1
+Jul-22,Netherlands,,3,99,102
+Jul-22,Norway,,1,70,71
+Jul-22,Poland,18,4,137,159
+Jul-22,Portugal,,2,44,46
+Jul-22,Romania,1,1,26,28
+Jul-22,Russian Federation,4,68,461,533
+Jul-22,Serbia,1,,23,24
+Jul-22,Slovak Republic,4,5,49,58
+Jul-22,Slovenia,,,13,13
+Jul-22,South Korea,,1,127,128
+Jul-22,Spain,,8,167,175
+Jul-22,Sweden,529,65,424,1018
+Jul-22,Switzerland,9,,123,132
+Jul-22,Thailand,1,,,1
+Jul-22,Turkey,1,,,1
+Jul-22,Ukraine,,1,6,7
+Jul-22,United States,3,4,288,295
+Jul-22,Vietnam,9,,,9
+Aug-22,Australia,1,,137,138
+Aug-22,Austria,,2,122,124
+Aug-22,Belgium,,7,166,173
+Aug-22,Canada,,,142,142
+Aug-22,China,53,48,761,862
+Aug-22,Croatia,,,27,27
+Aug-22,Czech Republic,2,1,66,69
+Aug-22,Denmark,,,114,114
+Aug-22,Finland,,2,40,42
+Aug-22,France,,2,195,197
+Aug-22,Germany,13,3,742,758
+Aug-22,Great Britain,,1,223,224
+Aug-22,Hungary,,,78,78
+Aug-22,India,6,11,34,51
+Aug-22,Ireland,,,23,23
+Aug-22,Italy,2,3,179,184
+Aug-22,Japan,,,84,84
+Aug-22,Lithuania,1,,,1
+Aug-22,Malaysia,2,,,2
+Aug-22,Mexico,1,,,1
+Aug-22,Netherlands,,3,102,105
+Aug-22,Norway,,1,71,72
+Aug-22,Poland,18,4,137,159
+Aug-22,Portugal,,2,44,46
+Aug-22,Romania,1,1,27,29
+Aug-22,Russian Federation,4,68,410,482
+Aug-22,Serbia,1,,23,24
+Aug-22,Slovak Republic,4,5,49,58
+Aug-22,Slovenia,,,13,13
+Aug-22,South Korea,,,131,131
+Aug-22,Spain,,8,169,177
+Aug-22,Sweden,528,66,426,1020
+Aug-22,Switzerland,9,,126,135
+Aug-22,Thailand,1,,,1
+Aug-22,Turkey,1,,,1
+Aug-22,Ukraine,,1,6,7
+Aug-22,United States,3,4,290,297
+Aug-22,Vietnam,9,,,9
+Sep-22,Australia,1,,136,137
+Sep-22,Austria,,2,115,117
+Sep-22,Belgium,,6,166,172
+Sep-22,Canada,,,144,144
+Sep-22,China,56,46,761,863
+Sep-22,Croatia,,,27,27
+Sep-22,Czech Republic,2,1,67,70
+Sep-22,Denmark,,,112,112
+Sep-22,Finland,,2,43,45
+Sep-22,France,,2,192,194
+Sep-22,Germany,14,1,737,752
+Sep-22,Great Britain,,1,233,234
+Sep-22,Hungary,,,74,74
+Sep-22,India,8,11,35,54
+Sep-22,Ireland,,,24,24
+Sep-22,Italy,2,4,183,189
+Sep-22,Japan,,,85,85
+Sep-22,Lithuania,1,,,1
+Sep-22,Malaysia,2,,,2
+Sep-22,Mexico,1,,,1
+Sep-22,Netherlands,,4,105,109
+Sep-22,Norway,,1,73,74
+Sep-22,Poland,18,5,134,157
+Sep-22,Portugal,1,2,47,50
+Sep-22,Romania,1,1,27,29
+Sep-22,Russian Federation,1,64,111,176
+Sep-22,Serbia,1,,21,22
+Sep-22,Slovak Republic,4,5,46,55
+Sep-22,Slovenia,,,12,12
+Sep-22,South Korea,,,131,131
+Sep-22,Spain,,8,170,178
+Sep-22,Sweden,527,60,429,1016
+Sep-22,Switzerland,11,,129,140
+Sep-22,Turkey,1,,,1
+Sep-22,Ukraine,,1,5,6
+Sep-22,United States,3,4,291,298
+Sep-22,Vietnam,11,,,11
+Oct-22,Australia,1,,136,137
+Oct-22,Austria,,2,114,116
+Oct-22,Belgium,,6,166,172
+Oct-22,Canada,,,144,144
+Oct-22,China,56,46,761,863
+Oct-22,Croatia,,,27,27
+Oct-22,Czech Republic,2,1,65,68
+Oct-22,Denmark,,,112,112
+Oct-22,Finland,,2,43,45
+Oct-22,France,,2,192,194
+Oct-22,Germany,14,1,734,749
+Oct-22,Great Britain,,1,233,234
+Oct-22,Hungary,,,74,74
+Oct-22,India,8,11,35,54
+Oct-22,Ireland,,,24,24
+Oct-22,Italy,2,4,183,189
+Oct-22,Japan,,,85,85
+Oct-22,Lithuania,1,,,1
+Oct-22,Malaysia,2,,,2
+Oct-22,Mexico,1,,,1
+Oct-22,Netherlands,,4,105,109
+Oct-22,Norway,,1,73,74
+Oct-22,Poland,18,5,133,156
+Oct-22,Portugal,1,2,47,50
+Oct-22,Romania,1,1,27,29
+Oct-22,Russian Federation,1,65,110,176
+Oct-22,Serbia,1,,21,22
+Oct-22,Slovak Republic,4,5,46,55
+Oct-22,Slovenia,,,12,12
+Oct-22,South Korea,,,131,131
+Oct-22,Spain,,8,170,178
+Oct-22,Sweden,527,60,429,1016
+Oct-22,Switzerland,11,,128,139
+Oct-22,Turkey,1,,,1
+Oct-22,Ukraine,,1,5,6
+Oct-22,United States,3,4,291,298
+Oct-22,Vietnam,11,,,11
+Nov-22,Australia,1,,139,140
+Nov-22,Austria,,2,117,119
+Nov-22,Belgium,,6,162,168
+Nov-22,Canada,,,144,144
+Nov-22,China,54,47,757,858
+Nov-22,Croatia,,,27,27
+Nov-22,Czech Republic,1,1,65,67
+Nov-22,Denmark,,,115,115
+Nov-22,Finland,,3,44,47
+Nov-22,France,,2,194,196
+Nov-22,Germany,13,1,737,751
+Nov-22,Great Britain,,1,227,228
+Nov-22,Hungary,,,76,76
+Nov-22,India,8,9,35,52
+Nov-22,Ireland,,,22,22
+Nov-22,Italy,2,4,182,188
+Nov-22,Japan,,,85,85
+Nov-22,Lithuania,1,,,1
+Nov-22,Malaysia,2,,,2
+Nov-22,Mexico,1,,,1
+Nov-22,Netherlands,,4,109,113
+Nov-22,Norway,,1,75,76
+Nov-22,Poland,19,5,135,159
+Nov-22,Portugal,1,2,46,49
+Nov-22,Romania,1,2,24,27
+Nov-22,Russian Federation,1,64,50,115
+Nov-22,Serbia,1,,22,23
+Nov-22,Slovak Republic,4,5,47,56
+Nov-22,Slovenia,,,12,12
+Nov-22,South Korea,,,130,130
+Nov-22,Spain,,10,175,185
+Nov-22,Sweden,523,60,430,1013
+Nov-22,Switzerland,11,,126,137
+Nov-22,Turkey,1,,,1
+Nov-22,Ukraine,,1,5,6
+Nov-22,United States,2,3,296,301
+Nov-22,Vietnam,11,,,11
+Dec-22,Australia,1,,135,136
+Dec-22,Austria,,,110,110
+Dec-22,Belgium,,5,157,162
+Dec-22,Canada,,,143,143
+Dec-22,China,54,47,758,859
+Dec-22,Croatia,,,26,26
+Dec-22,Czech Republic,2,1,67,70
+Dec-22,Denmark,,,108,108
+Dec-22,Finland,,3,41,44
+Dec-22,France,,2,193,195
+Dec-22,Germany,12,1,727,740
+Dec-22,Great Britain,,1,226,227
+Dec-22,Hungary,,,81,81
+Dec-22,India,8,10,35,53
+Dec-22,Ireland,,,20,20
+Dec-22,Italy,3,4,182,189
+Dec-22,Japan,,,80,80
+Dec-22,Lithuania,1,,,1
+Dec-22,Malaysia,2,,,2
+Dec-22,Mexico,1,,,1
+Dec-22,Netherlands,,4,104,108
+Dec-22,Norway,,1,75,76
+Dec-22,Poland,20,5,131,156
+Dec-22,Portugal,,2,50,52
+Dec-22,Romania,1,2,24,27
+Dec-22,Russian Federation,1,68,41,110
+Dec-22,Serbia,,,23,23
+Dec-22,Slovak Republic,4,5,46,55
+Dec-22,Slovenia,,,13,13
+Dec-22,South Korea,,,132,132
+Dec-22,Spain,,9,172,181
+Dec-22,Sweden,513,57,422,992
+Dec-22,Switzerland,11,,122,133
+Dec-22,Turkey,1,,,1
+Dec-22,Ukraine,,1,5,6
+Dec-22,United States,1,2,299,302
+Dec-22,Vietnam,11,,,11
+Jan-23,Australia,1,,106,107
+Jan-23,Austria,,,98,98
+Jan-23,Belgium,,5,138,143
+Jan-23,Canada,,,120,120
+Jan-23,China,129,76,1411,1616
+Jan-23,Croatia,,,24,24
+Jan-23,Czech Republic,2,1,60,63
+Jan-23,Denmark,,,102,102
+Jan-23,Finland,,3,36,39
+Jan-23,France,,2,158,160
+Jan-23,Germany,12,1,602,615
+Jan-23,Great Britain,,1,192,193
+Jan-23,Hungary,,,75,75
+Jan-23,India,8,7,29,44
+Jan-23,Ireland,,,19,19
+Jan-23,Italy,4,3,153,160
+Jan-23,Japan,,,77,77
+Jan-23,Kuwait,1,,,1
+Jan-23,Lithuania,1,,,1
+Jan-23,Malaysia,2,,,2
+Jan-23,Mexico,1,,,1
+Jan-23,Netherlands,,3,96,99
+Jan-23,Norway,,1,65,66
+Jan-23,Poland,16,4,110,130
+Jan-23,Portugal,,1,39,40
+Jan-23,Romania,,,21,21
+Jan-23,Russian Federation,1,56,31,88
+Jan-23,Serbia,,,20,20
+Jan-23,Slovak Republic,4,5,42,51
+Jan-23,Slovenia,,,10,10
+Jan-23,South Korea,,,130,130
+Jan-23,Spain,,8,125,133
+Jan-23,Sweden,446,49,347,842
+Jan-23,Switzerland,9,,103,112
+Jan-23,Turkey,1,,,1
+Jan-23,Ukraine,,1,5,6
+Jan-23,United States,,2,265,267
+Jan-23,Vietnam,10,,,10
+Feb-23,Australia,1,,136,137
+Feb-23,Austria,,,76,76
+Feb-23,Belgium,,5,164,169
+Feb-23,Canada,,,151,151
+Feb-23,China,56,50,760,866
+Feb-23,Croatia,,,27,27
+Feb-23,Czech Republic,2,1,67,70
+Feb-23,Denmark,,,117,117
+Feb-23,Finland,,4,44,48
+Feb-23,France,,3,203,206
+Feb-23,Germany,12,2,732,746
+Feb-23,Great Britain,,1,245,245
+Feb-23,Hungary,,,90,90
+Feb-23,India,9,12,37,58
+Feb-23,Ireland,,,22,22
+Feb-23,Italy,4,4,186,194
+Feb-23,Japan,,,84,84
+Feb-23,Kuwait,1,,,1
+Feb-23,Lithuania,1,,,1
+Feb-23,Malaysia,2,,,2
+Feb-23,Mexico,1,,,1
+Feb-23,Netherlands,,4,109,113
+Feb-23,Norway,,1,75,76
+Feb-23,Poland,19,6,138,163
+Feb-23,Portugal,,2,52,54
+Feb-23,Romania,,2,28,30
+Feb-23,Russian Federation,1,68,37,106
+Feb-23,Serbia,,,23,23
+Feb-23,Slovak Republic,4,5,47,56
+Feb-23,Slovenia,,,14,14
+Feb-23,South Korea,,,137,137
+Feb-23,Spain,,9,184,193
+Feb-23,Sweden,524,58,434,1016
+Feb-23,Switzerland,10,,121,131
+Feb-23,Turkey,1,,,1
+Feb-23,Ukraine,,1,5,6
+Feb-23,United States,1,2,314,317
+Feb-23,Vietnam,11,,,11
+Mar-23,Australia,1,,138,139
+Mar-23,Austria,,,81,81
+Mar-23,Belgium,,5,170,175
+Mar-23,Canada,,,150,150
+Mar-23,China,53,49,755,857
+Mar-23,Croatia,,,27,27
+Mar-23,Czech Republic,2,1,68,71
+Mar-23,Denmark,,,123,123
+Mar-23,Finland,,4,44,48
+Mar-23,France,,3,204,207
+Mar-23,Germany,12,2,734,748
+Mar-23,Great Britain,,1,244,245
+Mar-23,Hungary,,,90,90
+Mar-23,India,10,12,38,60
+Mar-23,Ireland,,,22,22
+Mar-23,Italy,4,4,188,196
+Mar-23,Japan,,,85,85
+Mar-23,Kuwait,1,,,1
+Mar-23,Lithuania,1,,,1
+Mar-23,Malaysia,2,,,2
+Mar-23,Mexico,1,,,1
+Mar-23,Netherlands,,5,112,117
+Mar-23,Norway,,1,75,76
+Mar-23,Poland,20,7,139,166
+Mar-23,Portugal,,2,53,55
+Mar-23,Romania,,2,32,34
+Mar-23,Russian Federation,1,65,37,103
+Mar-23,Serbia,,,24,24
+Mar-23,Slovak Republic,4,5,48,57
+Mar-23,Slovenia,,,14,14
+Mar-23,South Korea,,,137,137
+Mar-23,Spain,,10,187,197
+Mar-23,Sweden,532,58,437,1027
+Mar-23,Switzerland,10,,123,133
+Mar-23,Turkey,1,,,1
+Mar-23,Ukraine,,1,5,6
+Mar-23,United States,1,2,316,319
+Mar-23,Vietnam,11,,,11
+Apr-23,Australia,1,,138,139
+Apr-23,Austria,,,80,80
+Apr-23,Belgium,,5,170,175
+Apr-23,Canada,,,150,150
+Apr-23,China,51,49,755,855
+Apr-23,Croatia,,,27,27
+Apr-23,Czech Republic,2,1,75,78
+Apr-23,Denmark,,,127,127
+Apr-23,Finland,,4,45,49
+Apr-23,France,,3,207,210
+Apr-23,Germany,12,2,715,729
+Apr-23,Great Britain,,1,243,244
+Apr-23,Hungary,,,90,90
+Apr-23,India,11,12,39,62
+Apr-23,Ireland,,,23,23
+Apr-23,Italy,4,4,191,199
+Apr-23,Japan,,,80,80
+Apr-23,Kuwait,1,,,1
+Apr-23,Lithuania,1,,,1
+Apr-23,Malaysia,2,,,2
+Apr-23,Mexico,1,,,1
+Apr-23,Netherlands,,3,115,118
+Apr-23,Norway,,1,74,75
+Apr-23,Poland,20,7,144,171
+Apr-23,Portugal,,2,54,56
+Apr-23,Romania,,2,29,31
+Apr-23,Russian Federation,1,60,36,97
+Apr-23,Serbia,,,24,24
+Apr-23,Slovak Republic,4,5,48,57
+Apr-23,Slovenia,,,14,14
+Apr-23,South Korea,,,136,136
+Apr-23,Spain,,9,192,201
+Apr-23,Sweden,532,58,449,1039
+Apr-23,Switzerland,10,,125,135
+Apr-23,Turkey,1,,,1
+Apr-23,Ukraine,,1,5,6
+Apr-23,United States,1,2,324,327
+Apr-23,Vietnam,10,,,10
+May-23,Australia,1,,140,141
+May-23,Austria,,,80,80
+May-23,Belgium,,5,171,176
+May-23,Canada,,,149,149
+May-23,China,53,50,773,876
+May-23,Croatia,,,27,27
+May-23,Czech Republic,2,1,75,78
+May-23,Denmark,,,128,128
+May-23,Finland,,4,45,49
+May-23,France,,2,212,214
+May-23,Germany,9,2,711,722
+May-23,Great Britain,,1,247,248
+May-23,Hungary,,,95,95
+May-23,India,10,14,40,64
+May-23,Ireland,,,23,23
+May-23,Italy,3,4,191,198
+May-23,Japan,,,81,81
+May-23,Kuwait,1,,,1
+May-23,Malaysia,1,,,1
+May-23,Mexico,1,,,1
+May-23,Netherlands,,3,114,117
+May-23,Norway,,1,76,77
+May-23,Poland,20,7,144,171
+May-23,Portugal,,2,55,57
+May-23,Romania,,2,29,31
+May-23,Russian Federation,1,59,35,95
+May-23,Serbia,,,24,24
+May-23,Slovak Republic,4,4,46,54
+May-23,Slovenia,,,13,13
+May-23,South Korea,,,137,137
+May-23,Spain,,8,195,203
+May-23,Sweden,528,57,451,1036
+May-23,Switzerland,10,,128,138
+May-23,Turkey,1,,,1
+May-23,Ukraine,,1,5,6
+May-23,United States,1,2,324,327
+May-23,Vietnam,9,,,9
